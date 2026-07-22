@@ -1,4 +1,4 @@
-# 🚀 Manufacturing Data Analytics Portfolio
+#  Manufacturing Data Analytics Portfolio
 
 > Turning Manufacturing Data into Business Decisions
 
